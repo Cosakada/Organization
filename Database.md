@@ -11,6 +11,6 @@ I selected Supabase as the primary Database for Cosakada.
 
 - word
 - translation
-- correctQueries
-- totalQueries
-- last trained
+- repetitions
+- correctRepetitions
+- trained_at
